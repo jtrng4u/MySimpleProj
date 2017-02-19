@@ -7,7 +7,7 @@ public class Account implements Serializable {
 	float balance;
 	String accountType;
 
-	public Account() {
+	public Account() 
 		super();
 	}
 
