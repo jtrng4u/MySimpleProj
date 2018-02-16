@@ -5,7 +5,7 @@
 	<artifactId>MySpringMVC</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MySpringMVC Maven Webapp</name>
+	<name>MySpringMVC Maven Web Application</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
