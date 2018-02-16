@@ -6,7 +6,8 @@ public class Account implements Serializable {
 	int accountNumber;
 	float balance;
 	String accountType;
-
+	String total;
+	
 	public Account() {
 		super();
 	}
@@ -36,6 +37,10 @@ public class Account implements Serializable {
 
 	public String getAccountType() {
 		return accountType;
+	}
+	
+	public String total() {
+		return "total is total";	
 	}
 
 	public void setAccountType(String accountType) {
